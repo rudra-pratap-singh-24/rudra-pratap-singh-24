@@ -1,8 +1,19 @@
-Hi, I'm Rudra Pratap Singh — a B.Tech student at Vivekananda Global University, currently in my second year.
-I am passionate about technology, problem-solving, and building projects that improve my skills and create real-world impact.
+Hi, I'm **Rudra Pratap Singh**
+🎓 B.Tech CSE Student at Vivekananda Global University (2nd Year)
+💻 Passionate about Web Development, Programming & Technology
+🚀 Exploring HTML, CSS, JavaScript, and improving my skills in C/C++ and Java
 
-I work with several programming languages and web technologies, including HTML, CSS, JavaScript, C, C++, and Java.
-I enjoy learning new concepts, exploring modern development practices, and creating clean, efficient, and user-friendly applications.
+🧠 **About Me**
+🌱 Currently learning Frontend Development
+💡 Interested in building interactive web applications and creative UI designs
+💬 I enjoy discussing coding basics, Git/GitHub setup, and beginner programming concepts
+🎯 My goal is to become a skilled Full Stack Developer
+⚡ Fun fact: I love experimenting with animations, layouts, and clean UI styles!
 
-GitHub is where I document my learning journey, build projects, and continuously improve as a developer.
-I look forward to collaborating, contributing to meaningful work, and growing in the world of software development.
+🛠️ **Skills**
+**Languages:** C, C++, Java, HTML, CSS, JavaScript
+**Tools:** VS Code, Git, GitHub
+**Design:** Canva, Figma (UI Wireframes & Prototypes)
+
+
+⭐️ *“Learn. Build. Upgrade.”*
