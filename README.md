@@ -15,7 +15,7 @@
 ---
 
 ### 🛠️ Skills  
-**Languages:** C, C++, Java, HTML, CSS, JavaScript  
+**Languages:** C, C++, HTML, CSS, JavaScript  
 **Tools:** VS Code, Git, GitHub  
 **Design Tools:** Canva, Figma (UI Wireframes & Prototypes)
 
