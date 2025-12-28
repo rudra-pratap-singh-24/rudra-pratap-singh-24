@@ -22,7 +22,6 @@
 ---
 
 ### 🌐 Connect With Me  
-(Add your links here)
 <a href="rpsingh7274@gmail.com">Email</a>
 ---
 
